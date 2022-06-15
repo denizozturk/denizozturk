@@ -1,5 +1,5 @@
 ### Hi, I'm Deniz
 
-Web developer from Turkey.
+Backend developer from Turkey.
 
-HTML, CSS, SASS, JavaScript, jQuery, PHP
+**Stack:** PHP, Laravel, MySQL
