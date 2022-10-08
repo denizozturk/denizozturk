@@ -2,4 +2,6 @@
 
 Backend developer from Turkey.
 
-**Stack:** PHP, Laravel, MySQL
+**Languages:** PHP, JavaScript
+**Frameworks:** Laravel, Symfony
+**Database:** MySQL, MongoDB
