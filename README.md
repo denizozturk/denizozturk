@@ -1,7 +1,9 @@
-### Hi, I'm Deniz
+# Hey, I'm Deniz
 
-Backend developer from Turkey.
+Backend developer focused on building scalable systems.
 
-**Languages:** PHP, JavaScript
-**Frameworks:** Laravel, Symfony
-**Database:** MySQL, MongoDB
+## Tech stack
+
+- **Languages:** `Go`, `PHP`
+- **Frameworks:** `Laravel`, `Symfony`
+- **Technologies:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `REST`, `gRPC`, `Docker`, `Git`
