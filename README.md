@@ -4,7 +4,7 @@ I'm a fullstack developer. My focus is on maintainable systems with clean archit
 
 ## Tech stack
 
-- **Languages:** `Go`, `C#`, `PHP`, `TypeScript`
+- **Languages:** `Go`, `C#`, `PHP`, `TypeScript` and currently learning `Rust`
 - **Frameworks:** `Laravel`, `Symfony`, `.NET Core`, `Vue.js`
 - **Technologies:** `Node.js`, `PostgreSQL`, `MySQL`, `MongoDB`, `RabbitMQ`, `Redis`, `REST`, `GraphQL`, `gRPC`, `Docker`, `CI/CD`, `Git`
 
