@@ -12,4 +12,4 @@ I'm a fullstack developer. My focus is on maintainable systems with clean archit
 
 Please email me or DM, and I'll respond shortly.
 
-[Email](mailto:deniz@ozturk.io) • [LinkedIn](https://linkedin.com/in/denozturk)
+[Email](mailto:deniz@ozturk.io) • [LinkedIn](https://go.deniz.sh/linkedin)
